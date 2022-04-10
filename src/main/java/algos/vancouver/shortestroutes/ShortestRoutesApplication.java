@@ -1,13 +1,13 @@
-package com.algos.shortestPath;
+package algos.vancouver.shortestroutes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ShortestPathApplication {
+public class ShortestRoutesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ShortestPathApplication.class, args);
+		SpringApplication.run(ShortestRoutesApplication.class, args);
 	}
 
 }

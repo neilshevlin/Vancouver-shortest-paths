@@ -1,10 +1,10 @@
-package com.algos.shortestPath;
+package algos.vancouver.shortestroutes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShortestPathApplicationTests {
+class ShortestRoutesApplicationTests {
 
 	@Test
 	void contextLoads() {
